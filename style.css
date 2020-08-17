@@ -1,0 +1,146 @@
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* border: 1px solid red; */
+}
+#main-logo{
+    padding-left: 40px;
+    width: 150px;
+}
+#head-sign{
+    padding-top: 15px;
+}
+header{
+    margin-bottom: 25px;
+    margin-top: 20px;
+    font-size: larger;
+}
+.display{
+    display: inline-block; 
+    vertical-align: top;
+}
+#navbar1{
+    text-align: center;
+}
+#main-label{
+    background-color: #3b5998 !important; 
+    padding-top: 20px !important;
+}
+#navbar1 label{
+    margin-right: 0,1px;
+    margin-left: 0,1px;
+    color: white;
+    padding-left: 60px;
+    padding-top: 10px;
+    padding-right: 60px;
+    background-color: rgb(0, 0, 107);
+    font-size: 25px;
+}
+#navbar2{
+    margin-bottom: 20px;
+    height: 50px;
+    margin-left: 60px;
+    width: 90%;
+    background-color: #3b5998;
+}
+#head-logo{
+    padding-left: 40px;
+    width: 70%;
+    margin-left: 50px;
+}
+a{
+    color: blue;
+}
+.a-bold{
+    font-weight: 700;
+}
+.t-bold{
+    padding:5px;
+    background-color: rgb(196, 196, 196);
+    font-weight: 750;
+}
+#left-side-up{
+    margin-right: 100px;
+    height: 250px;
+    margin-left: 130px;
+    width: 15%;
+    background-color: rgb(226, 226, 226);
+}
+#left-side-up p{
+    padding-left: 30px;
+}
+#left-side-down p{
+    padding-left: 30px;
+}
+#right-side-up{
+    width: 50%;
+    margin-left: 80px;
+}
+#get-foto{
+    margin-left: 40px;
+    width: 400px;
+}
+#main-words{
+    color: #3b5998;
+    padding-bottom: 30px;
+}
+button{
+    padding: 3px;
+    margin-top: 10px;
+    width: 90px;
+    margin-left: 30px;
+    background-color: rgb(199, 199, 199);
+}
+#left-side-down{
+    margin-right: 100px;
+    margin-top: 30px;
+    height: 300px;
+    margin-left: 130px;
+    width: 15%;
+    background-color: rgb(226, 226, 226);
+}
+#left-side-down p{
+    padding-bottom: 10px;
+}
+#worldwide{
+    font-weight: 700;
+    text-align: center;
+    padding-top: 25px;
+}
+#right-side-down{
+    margin-top: 50px;
+    margin-left: 80px;
+}
+footer{
+    text-align: center;
+    margin-top: 100px;
+}
+#signup{
+    padding-bottom: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    width: 500px;
+    background-color: rgb(230, 228, 140);
+}
+#icon1{
+    margin-top: 30px;
+    width: 80px;
+}
+#icon2{
+    margin-top: 30px;
+    width: 80px;
+}
+.businesses{
+    margin-left: 20px;
+    margin-top: 25px;
+}
+#cardsfoto{
+    width: 230px;
+    margin-top: 80px;
+}
+#ad{
+    margin-right: 20px;
+}
